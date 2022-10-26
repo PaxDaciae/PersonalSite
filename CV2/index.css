@@ -336,6 +336,13 @@ form{
     font-family: 'Akshar';
 
 }
+
+.contact-form-container{
+    position: relative;
+    left: 15%;
+    top: 20px;
+}
+
 form h3{
     color:rgb(1, 10, 51);
     font-weight:800;
@@ -351,7 +358,7 @@ form input, form textarea{
 }
 form button{
     padding: 10px;
-    background:lightgreen;
+    background:gold;
     color: white;
     font-size: 18px;
     border: 0;
